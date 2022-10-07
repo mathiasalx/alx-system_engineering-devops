@@ -1,1 +1,1 @@
-Repository for "0x00. Shell, basics" Project
+Repository for "ALX System Engineering Devops" Project
